@@ -18,6 +18,7 @@ import android.widget.TextView;
 public class DiscountsFragment extends Fragment  {
 
 	// Declare variables
+	
     EditText  etPrice; 
 	EditText  etDiscount;
 	TextView tvDiscountedPrice;
